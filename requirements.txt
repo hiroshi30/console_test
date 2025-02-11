@@ -1,0 +1,5 @@
+pip
+wheel>=0.45.1
+setuptools>=75.8.0
+colorama>=0.4.6
+playsound>=1.2.2
